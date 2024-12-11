@@ -10,7 +10,7 @@
 # Python Install op-system  (Window system)
 # https://www.python.org/
 
-#IDE (Integrated Development Environment) 
+#IDE (Integrated Development Environment) c
 # pycham
 # vscode
 # Example  Hello world 
@@ -65,11 +65,10 @@
 #    print(i)
 
 # 5) Method : ListComprehension
-fruits = ["apple", "banana", "cherry", "kiwi", "mango"]  #simple list to store the item 
-newlist = []
+#fruits = ["apple", "banana", "cherry", "kiwi", "mango"]  #simple list to store the item #
+#newlist = []
 
-for i in fruits:
-    if "a" in i:
-        newlist.append(i)
-        
-print(newlist)
+#for i in fruits:
+#   if "a" in i:
+#      newlist.append(i)
+# print(newlist)
