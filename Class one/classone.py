@@ -10,7 +10,7 @@
 # Python Install op-system  (Window system)
 # https://www.python.org/
 
-#IDE (Integrated Development Environment) c
+#IDE (Integrated Development Environment) 
 # pycham
 # vscode
 # Example  Hello world 
@@ -54,21 +54,65 @@
 # print(MyList)
 
 
+
 # 3) Method : Remove 
 # ex : MyList = ["Hello" , "World"]
 # MyList.remove("Hello")
 # print(MyList) 
+
 
 # 4) Method : LoopLists
 #thisList = ["apple", "banana", "cherry"]
 #for i in thisList:
 #    print(i)
 
+
 # 5) Method : ListComprehension
-#fruits = ["apple", "banana", "cherry", "kiwi", "mango"]  #simple list to store the item #
-#newlist = []
+#fruits = ["apple", "banana", "cherry", "kiwi", "mango"]  #simple list to store the item 
+#newlist = [] #blank list 
 
 #for i in fruits:
-#   if "a" in i:
-#      newlist.append(i)
-# print(newlist)
+#    if "a" in i:
+#        newlist.append(i)
+        
+#print(newlist)
+
+# 6) Method : Sort
+# thislist =  ["orange", "mango", "kiwi", "pineapple", "banana"]
+# thislist.sort()
+# print(thislist)  #sort the list in ascending order
+ 
+# 7) Method : Copy
+# thislist1 =  ["orange", "mango", "kiwi","MethodCopy"]
+# HassanList = thislist.copy()
+# print(HassanList)  #copy the list to a new list
+
+# 8) Method : Join
+# list1 = ["a", "b", "c"]
+# list2 = [1, 2, 3]
+# list = list1 + list2
+# print(list)
+#join two lists together
+
+# OutPut : ["a","b","c",1,2,3] 
+
+# 9) Method : Reverse
+#listH = ["a", "b", "c"]
+#HassanReverse = listH.reverse()
+#print(HassanReverse) #reverse the list
+
+# output : ["c", "b" , "a"]
+
+# 10) Method : Index
+
+# fruits = ['apple', 'banana', 'cherry']
+# x = fruits.index("cherry")
+
+
+
+
+
+
+
+
+
